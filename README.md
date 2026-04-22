@@ -1,2 +1,3 @@
 # smartphone-price-predictor
-End-to-end ML project with web scraping, feature engineering, and Streamlit deployment
+End-to-end machine learning project for smartphone price prediction using web scraping, feature engineering, model optimization, and Streamlit deployment.
+
